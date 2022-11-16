@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Лице на триъгълник", "Лице на триъгълник.csproj", "{E7F3BF64-C1B6-404C-90B2-55ED9EE420BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F3BF64-C1B6-404C-90B2-55ED9EE420BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F3BF64-C1B6-404C-90B2-55ED9EE420BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F3BF64-C1B6-404C-90B2-55ED9EE420BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F3BF64-C1B6-404C-90B2-55ED9EE420BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CC44601-BECB-470D-BB51-3192D8A992A0}
+	EndGlobalSection
+EndGlobal
